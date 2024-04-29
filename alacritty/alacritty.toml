@@ -1,0 +1,6 @@
+font = { normal = { family = "JetBrainsMonoNL Nerd Font" }, size = 11 }
+
+
+window.blur = true
+
+window.opacity = 0.85
