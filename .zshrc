@@ -4,6 +4,7 @@
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 export PATH="$HOME/flutter/bin:$HOME/.cargo/bin/:$HOME/.local/bin:$PATH"
+export PATH="/var/lib/flatpak/exports/share:/home/zain/.local/share/flatpak/exports/share:$PATH"
 
 
 # Set name of the theme to load --- if set to "random", it will
